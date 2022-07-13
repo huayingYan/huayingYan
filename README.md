@@ -12,7 +12,7 @@ Who am I
     👀 目前从事前端开发，主流技术栈vue和js
   </p>
   <p>
-    🌱 目前证在学习SpringBoot2
+    🌱 目前正在学习SpringBoot2，进阶VUE3和Vite
   </p>
   <p>
     📫 可以通过邮箱3262414153@qq.com找到我
