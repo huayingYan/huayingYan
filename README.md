@@ -26,10 +26,18 @@ What am I doing
 
 </div>
 
-
+ 
 
 <div align=center>
 
+<img src="https://user-images.githubusercontent.com/109188804/179141691-a312cc1c-a8ff-4d9c-bcc5-ef9b3e75a829.png" height="300px"/>
+
+ 2015至2019（本） && 2019-2022（硕）于江西财经大学学习
+ <p>2023年（明年）就是母校100周年啦！！！祝福JXUFE蒸蒸日上</p>
+ 
+ 
+ 
+ 
 ![Custom badge](https://img.shields.io/badge/VUE2-%E9%AB%98%E7%BA%A7%E8%BF%9B%E9%98%B6%E4%B8%AD-brightgreen)
 ![Custom badge](https://img.shields.io/badge/VUE3-%E8%BF%9B%E9%98%B6%E4%B8%AD-green)
 ![Custom badge](https://img.shields.io/badge/JavaScript-%E9%AB%98%E7%BA%A7%E8%BF%9B%E9%98%B6%E4%B8%AD-yellow)
