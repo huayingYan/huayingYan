@@ -32,8 +32,11 @@ What am I doing
 
 <img src="https://user-images.githubusercontent.com/109188804/179141691-a312cc1c-a8ff-4d9c-bcc5-ef9b3e75a829.png" height="300px"/>
 
- 2015至2019（本） && 2019-2022（硕）于江西财经大学学习
- <p>2023年（明年）就是母校100周年啦！！！祝福JXUFE蒸蒸日上</p>
+ ![0EDBC66B](https://user-images.githubusercontent.com/109188804/179142449-a41e739b-92eb-435c-a83d-232eaab53a0a.png)
+2015至2019（本） && ![0EDC0EBE](https://user-images.githubusercontent.com/109188804/179142485-e36d4f22-49b5-4dd6-91dc-2ee7db039b80.png)
+2019-2022（硕）于江西财经大学学习<p>
+ ![0EDC2BBC](https://user-images.githubusercontent.com/109188804/179142492-3a3d946b-03c9-42af-845a-e7c313529232.png)
+2023年（明年）就是母校100周年啦！！！祝福JXUFE蒸蒸日上</p>
  
  
  
